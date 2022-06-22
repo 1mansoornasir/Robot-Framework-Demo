@@ -1,0 +1,9 @@
+datasources:8d10ac2b183132b8fe95ca09203504fed2c53de1
+commandlineoptions:35dbdafc0e7a07a6ccf140dc58947722648c02f0
+suitesfrom:no-suites-from-option
+file:fd7ca3429e0fe89738965dfe86a443336a3ab366
+--suite Suites.Task01-Gallery
+--suite Suites.Task02-Video
+--suite Suites.Task03-Append list
+--suite Suites.Task04-Calendar
+--suite Suites.Task05-MaterialUI Autocomplete
